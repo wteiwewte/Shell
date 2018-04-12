@@ -4,7 +4,8 @@ Simple implementation of POSIX shell
 ## Information
 
 This project was made during Operating Systems course. 
-Its goal was to implement simple shell. In this version are included e.g. background processes, redirections and simple commands like 'cd' or 'ls'.
+Its goal was to implement simple shell. 
+In this version are included e.g. background processes, redirections and simple commands like 'cd' or 'ls'.
 
 ### Installing and running
 
