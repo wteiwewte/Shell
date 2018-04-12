@@ -1,5 +1,5 @@
 # Shell
-Simple implementation of POSIX shell
+Simple implementation of POSIX shell.
 
 ## Information
 
