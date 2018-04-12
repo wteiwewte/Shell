@@ -18,7 +18,7 @@ Shell was tested on both MINIX 3.2.1 and Ubuntu 16.04.
 
 ## Note
 
-A couple of files, in particular those related to raw parsing input were provided by my tutor 
+A couple of files, in particular those related to raw parsing input were provided by my tutor .
 
 
 
